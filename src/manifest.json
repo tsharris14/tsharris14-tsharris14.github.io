@@ -7,7 +7,7 @@
     "theme_color": "#EE4723",
     "icons": [
         {
-            "src":"tsharris14-tsharris14.github.io/images/CDlogo_192x192.png",
+            "src":"/images/CDlogo_192x192.png",
             "sizes": "192x192",
             "type":"image/png"
         }
