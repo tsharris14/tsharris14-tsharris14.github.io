@@ -7,7 +7,7 @@
     "theme_color": "#EE4723",
     "icons": [
         {
-            "src":"/images/CDlogo_192x192.png",
+            "src":"images/CDlogo_192x192.png",
             "sizes": "192x192",
             "type":"image/png"
         }
