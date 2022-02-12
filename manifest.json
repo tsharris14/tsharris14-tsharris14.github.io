@@ -1,0 +1,9 @@
+{
+    "name": "CardinalDirect",
+    "short_name": "CardinalDirect",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color": "white",
+    "theme_color": "#EE4723"
+
+}
