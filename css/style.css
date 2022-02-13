@@ -17,6 +17,7 @@ html {
     height: 70%;
     display: grid;
     justify-items: center;
+    text-align: center;
     align-items: center;
     background-color: white;
     border-radius: 7px;
