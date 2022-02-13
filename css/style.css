@@ -1,82 +1,35 @@
-html {
-    height: 100%;
+body{
+    background: #E8D426 !important;
+    font-family: 'Muli', sans-serif;
+    
   }
-  
-  body {
-    height: 100%;
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    display: grid;
-    justify-items: center;
-    align-items: center;
-    background-color: #ce3535;
-  }
-  
-  #main-holder {
-    width: 50%;
-    height: 70%;
-    display: grid;
-  
-    text-align: center;
-
-    background-color: white;
-    border-radius: 7px;
-    box-shadow: 0px 0px 5px 2px black;
-  }
-  
-  #login-error-msg-holder {
-    width: 100%;
-    height: 100%;
-    display: grid;
-    justify-items: center;
-    align-items: center;
-  }
-  
-  #login-error-msg {
-    width: 23%;
-    text-align: center;
-    margin: 0;
-    padding: 5px;
-    font-size: 12px;
+  h1{
+    color: #fff;
+    padding-bottom: 2rem;
     font-weight: bold;
-    color: #8a0000;
-    border: 1px solid #8a0000;
-    background-color: #e58f8f;
-    opacity: 0;
+  }
+  a{
+    color: #333;
+  }
+  a:hover{
+    color: #E8D426;
+    text-decoration: none;
+  }
+  .form-control:focus {
+  
+      color: #000;
+      background-color: #fff;
+      border:2px solid #E8D426;
+      outline: 0;
+      box-shadow: none;
+  
   }
   
-  #error-msg-second-line {
-    display: block;
+  .btn{
+    background: #E8D426;
+    border: #E8D426;
   }
-  
-  #login-form {
-    align-self: flex-start;
-    display: grid;
-    justify-items: center;
-    align-items: center;
-  }
-  
-  .login-form-field::placeholder {
-    color: #3a3a3a;
-  }
-  
-  .login-form-field {
-    border: none;
-    border-bottom: 1px solid #3a3a3a;
-    margin-bottom: 10px;
-    border-radius: 3px;
-    outline: none;
-    padding: 0px 0px 5px 5px;
-  }
-  
-  #login-form-submit {
-    width: 100%;
-    padding: 7px;
-    border: none;
-    border-radius: 5px;
-    color: white;
-    font-weight: bold;
-    background-color: #3a3a3a;
-    cursor: pointer;
-    outline: none;
+  .btn:hover {
+    background: #E8D426;
+    border: #E8D426;
   }
