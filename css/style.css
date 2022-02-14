@@ -42,6 +42,7 @@ body{
   }
   .outside {
 	position: relative;
+    text-align: center;
     width: 200px;
     height: 200px;
     background-color: #EEE; /*to make it visible*/
@@ -49,4 +50,5 @@ body{
  .inside {
     position: absolute;
     bottom: 2px;
+    text-align: center;
 }
