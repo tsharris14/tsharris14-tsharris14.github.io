@@ -43,6 +43,7 @@ body{
   
  .inside {
     position: absolute;
+    text-align: center;
     bottom: 2px;
     text-align: center;
 }
