@@ -40,13 +40,7 @@ body{
     text-align: center;
     width: 50%; 
   }
-  .outside {
-	position: relative;
-    text-align: center;
-    width: 200px;
-    height: 200px;
-    background-color: #EEE; /*to make it visible*/
-}
+  
  .inside {
     position: absolute;
     bottom: 2px;
