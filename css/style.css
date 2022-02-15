@@ -24,7 +24,7 @@ body{
       box-shadow: none;
   
   }
-  
+  /*buttons */
   .btn{
     background: #F24019;
     border: #F24019;
@@ -37,7 +37,7 @@ body{
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-top:-30px;
+    margin-top:-20px;
     margin-left: -200px;
 
   }
